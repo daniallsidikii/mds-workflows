@@ -12,31 +12,31 @@ const services: Service[] = [
   {
     icon: Code2,
     title: "Static Website Development",
-    description: "Fast, SEO-friendly HTML/CSS websites — perfect for clinics and small businesses.",
+    description: "Fast, SEO-friendly HTML/CSS websites built to plug into your automation stack.",
     accent: "web",
   },
   {
     icon: Facebook,
     title: "Facebook Management",
-    description: "Page setup, regular posts, stories and ad boosting that grows your reach.",
+    description: "Page setup, automated posting, stories and ad boosting that grows your reach.",
     accent: "facebook",
   },
   {
     icon: Instagram,
     title: "Instagram Management",
-    description: "Feed design, reels, stories and a hashtag strategy tailored to your niche.",
+    description: "Feed design, reels, stories and automated scheduling tailored to your niche.",
     accent: "instagram",
   },
   {
     icon: Youtube,
     title: "YouTube Management",
-    description: "Channel setup, thumbnails, video SEO and a consistent upload schedule.",
+    description: "Channel setup, thumbnails, video SEO and an automated upload workflow.",
     accent: "youtube",
   },
   {
     icon: BarChart3,
-    title: "Analytics & Reporting",
-    description: "Clear monthly reports with insights and recommendations for managers.",
+    title: "Analytics & Automated Reporting",
+    description: "Automated monthly reports with insights and recommendations for managers.",
     accent: "muted",
   },
 ];
@@ -56,11 +56,11 @@ const Services = () => {
         <div className="max-w-2xl">
           <p className="text-sm font-medium text-primary uppercase tracking-wider">Services</p>
           <h2 className="mt-2 font-display text-3xl sm:text-5xl font-semibold leading-tight">
-            Everything you need to grow online
+            Everything you need to grow &amp; automate online
           </h2>
           <p className="mt-4 text-muted-foreground">
-            From building your website to running your social channels — I handle the full digital
-            presence so you can focus on your patients and clients.
+            From building your website to automating your social channels — I handle the full
+            digital workflow so you can focus on running your business.
           </p>
         </div>
 

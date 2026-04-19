@@ -3,23 +3,23 @@ import { Briefcase, CalendarCheck, LineChart, Rocket } from "lucide-react";
 const items = [
   {
     icon: Briefcase,
-    title: "Healthcare experience",
-    text: "Specific experience working with clinics and medical brands.",
+    title: "Automation experience",
+    text: "Hands-on experience building social media and reporting automations.",
   },
   {
     icon: CalendarCheck,
-    title: "Regular posting",
-    text: "Consistent scheduling so your channels never go quiet.",
+    title: "Automated posting",
+    text: "Scheduled, hands-off publishing so your channels never go quiet.",
   },
   {
     icon: LineChart,
     title: "Reports for managers",
-    text: "Clear monthly analytics that decision-makers can act on.",
+    text: "Auto-generated monthly analytics that decision-makers can act on.",
   },
   {
     icon: Rocket,
     title: "Fast website delivery",
-    text: "Lightweight static sites shipped quickly without bloat.",
+    text: "Lightweight static sites shipped quickly and ready to automate.",
   },
 ];
 

@@ -9,40 +9,40 @@ type Project = {
 
 const projects: Project[] = [
   {
-    title: "Clinic static website",
-    description: "HTML/CSS website with services, doctors and an appointment page.",
+    title: "Automation landing site",
+    description: "Static HTML/CSS website with a lead capture form wired into Zapier.",
     platform: "Web",
-    tags: ["HTML", "CSS", "SEO"],
+    tags: ["HTML", "CSS", "Zapier"],
   },
   {
-    title: "Facebook content calendar",
-    description: "Monthly posting plan and visuals for a medical clinic page.",
+    title: "Facebook auto-posting flow",
+    description: "Monthly content calendar scheduled through Meta Business Suite automations.",
     platform: "FB",
-    tags: ["Strategy", "Content", "Scheduling"],
+    tags: ["Automation", "Content", "Scheduling"],
   },
   {
-    title: "Instagram reels strategy",
-    description: "Reels scripting, story templates and weekly posting cadence.",
+    title: "Instagram reels workflow",
+    description: "Reels scripting, story templates and automated posting cadence.",
     platform: "IG",
-    tags: ["Reels", "Scripts", "Stories"],
+    tags: ["Reels", "Scripts", "Automation"],
   },
   {
-    title: "YouTube channel setup",
-    description: "Branding, thumbnails and SEO optimization for healthcare content.",
+    title: "YouTube upload automation",
+    description: "Branding, thumbnails and an automated SEO + upload checklist.",
     platform: "YT",
-    tags: ["Branding", "Thumbnails", "Video SEO"],
+    tags: ["Branding", "Thumbnails", "Workflow"],
   },
   {
     title: "Social media brand kit",
-    description: "Voice, tone and visual identity guidelines for a clinic brand.",
+    description: "Voice, tone and visual identity guidelines for an automation SaaS brand.",
     platform: "IG",
     tags: ["Branding", "Guidelines", "Visuals"],
   },
   {
-    title: "Monthly analytics report",
-    description: "Performance dashboard and actionable insights for managers.",
+    title: "Automated analytics report",
+    description: "Performance dashboard auto-generated monthly with actionable insights.",
     platform: "Web",
-    tags: ["Analytics", "Reporting", "Insights"],
+    tags: ["Analytics", "Automation", "Insights"],
   },
 ];
 
