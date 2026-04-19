@@ -22,7 +22,7 @@ const Hero = () => {
         </p>
 
         <p className="mt-4 max-w-2xl text-base sm:text-lg text-muted-foreground leading-relaxed">
-          I help small businesses build their online presence through strategic content,
+          I help small businesses streamline their online presence with smart automations,
           social media management, and clean static websites.
         </p>
 

@@ -27,8 +27,8 @@ const Contact = () => {
             Let's work together
           </h2>
           <p className="mt-4 text-muted-foreground max-w-md">
-            Available for clinic and healthcare brand projects. Tell me about your goals and I'll get
-            back to you within 24 hours.
+            Available for automation, social media and static website projects. Tell me about your
+            workflow and I'll get back to you within 24 hours.
           </p>
 
           <div className="mt-8 space-y-3">
@@ -90,7 +90,7 @@ const Contact = () => {
               name="email"
               type="email"
               required
-              placeholder="you@clinic.com"
+              placeholder="you@business.com"
               className="mt-1.5 block w-full rounded-lg border border-input bg-background px-3 py-2.5 text-sm focus:outline-none focus:ring-2 focus:ring-ring"
             />
           </div>
