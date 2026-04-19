@@ -28,9 +28,9 @@ const Navbar = () => {
       <nav className="container-narrow flex h-16 items-center justify-between">
         <a href="#top" className="flex items-center gap-2">
           <span className="grid h-8 w-8 place-items-center rounded-lg bg-primary text-primary-foreground font-display font-bold">
-            s
+            M
           </span>
-          <span className="font-display text-xl font-semibold tracking-tight">sikaty</span>
+          <span className="font-display text-xl font-semibold tracking-tight">MDSworkflows</span>
         </a>
 
         <ul className="hidden md:flex items-center gap-8 text-sm font-medium text-muted-foreground">

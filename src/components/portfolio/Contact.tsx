@@ -66,15 +66,13 @@ const Contact = () => {
               <span className="text-sm font-medium">YouTube</span>
             </a>
             <a
-              href="https://sikaty.com"
-              target="_blank"
-              rel="noreferrer"
+              href="#"
               className="flex items-center gap-3 rounded-xl border border-border bg-card p-3 hover:border-web/40 transition"
             >
               <span className="grid h-9 w-9 place-items-center rounded-lg bg-web-soft text-web">
                 <Globe className="h-4 w-4" />
               </span>
-              <span className="text-sm font-medium">sikaty.com</span>
+              <span className="text-sm font-medium">Website</span>
             </a>
           </div>
         </div>
